@@ -1,4 +1,4 @@
-# BMP 이미지 그레이스케일 변환 소프트웨어
+# BMP 이미지 MEM 변환 소프트웨어
 
 <img width="613" height="467" alt="image" src="https://github.com/user-attachments/assets/3887664d-5b6e-4066-91f9-18958d78b436" />
 
